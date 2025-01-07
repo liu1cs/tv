@@ -1,34 +1,34 @@
 {
-  "spider": "https://gitee.com/yhykejiku/TencentFanghong/raw/main/spider.jar",
-  "wallpaper": "https://api.likepoems.com/img/bing",
-  "logo": "https://d.kstore.dev/download/7336/tv/logo.gif",
-  "warningText": "预防接口失效丨请关注公众号丨YHY黑科技",
-  "sites": [
+  "spider": "https://gitee.com/yhykejiku/TencentFanghong/raw/main/spider.jar", "spider" : "httPS://基捷.com/Yhykejiku/腾凡港/生/主要/蜘蛛" ,
+  "wallpaper": "https://api.likepoems.com/img/bing", "wallpaper" : "https://api.likepoems.com/img/bing" ,
+  "logo": "https://d.kstore.dev/download/7336/tv/logo.gif", "logo" : "https://d.kstore.dev/download/7336/tv/logo.gif" ,
+  "warningText": "预防接口失效丨请关注公众号丨YHY黑科技", "warningText" : "预防接口失效丨请关注公众号丨YHY黑科技" ,
+  "sites": [ "sites" : [
+    {{
+      "key": "小盒", "key" : "小盒" ,
+      "name": "殿举家电专用", "name" : "殿举家电专用" ,
+      "type": 3, "type" : 3 ,
+      "api": "csp_Douban", "api" : "csp_Douban" ,
+      "searchable": 0"searchable": 0
+    },},
+    {{
+      "key": "预告","key": "预告",
+      "name": "新片｜预告","name": "新片｜预告",
+      "type": 3,"type": 3,
+      "api": "csp_YGP","api": "csp_YGP",
+      "searchable": 0"searchable": 0
+    },},
+    {{
+      "key": "本地", "key" : "本地" ,
+       "name" : "本地｜视频" ,
+       "type" : 3 ,
+       "api" : "csp_LocalFile"
+     } ,
     {
-      "key": "小盒",
-      "name": "殿举家电专用",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "预告",
-      "name": "新片｜预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0
-    },
-    {
-      "key": "本地",
-      "name": "本地｜视频",
-      "type": 3,
-      "api": "csp_LocalFile"
-    },
-    {
-      "key": "配置中心",
-      "name": "配置｜中心",
-      "type": 3,
-      "api": "csp_Config",
+       "key" : "配置中心" ,
+       "name" : "配置｜中心" ,
+       "type" : 3 ,
+       "api" : "csp_Config" ,
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -52,13 +52,13 @@
       "jar": "https://gitee.com/yhykejiku/TencentFanghong/raw/main/wex.jar"
     },
     {
-      "key": "厂长弹幕",
-      "name": "厂长｜弹幕",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+       "key" : "厂长弹幕" ,
+       "name" : "厂长｜弹幕" ,
+       "type" : 3 ,
+       "api" : "csp_Czzy" ,
+       "searchable" : 1 ,
+       "quickSearch" : 1 ,
+       "filterable" : 1 ,
       "ext": {
         "danmu": true
       }
@@ -2234,7 +2234,8 @@
     {
       "name": "AI直播",
       "type": 0,
-      "url": "https://gitee.com/liu-xihai/black-box/raw/master/%E7%9B%B4%E6%92%AD.txt",
+      "url": "https://github.moeyy.xyz/https://github.com/liu1cs/tv/blob/main/ydzb.txt
+",
       "playerType": 1,
       "timeout": 10
     },
