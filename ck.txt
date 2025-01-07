@@ -51,8 +51,8 @@
     {
       "url": "http://tv.nxog.top/m/111.php",
       "name": "✨️YHY丨讴歌线路"
-    }
-{
+    },
+    {
             "url": "https://gitee.com/huasjf/tvbox/raw/main/hsjf.json",
             "名称":"数码汽车公司"
         },
