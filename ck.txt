@@ -54,7 +54,7 @@
     },
     {
             "url": "https://gitee.com/huasjf/tvbox/raw/main/hsjf.json",
-            "名称":"数码汽车公司"
+            "name": "🚀疾风线路"
         },
         {
              "url": "http://cdn.qiaoji8.com/tvbox.json",
@@ -70,15 +70,15 @@
         },
         {
             "url": "http://yuan.haitangw.net/box/",
-            "名称":"澳门长青线"
+            "name": "🚀长青线路"
         },
         {
             "url": "http://700sjro44343.vicp.fun/eggp/tv.json",
-            "名称":"数码小木线路"
+            "name": "🚀小木线路"
         },
         {
             "url": "http://www.meowtv.top",
-            "名":"金城线路"
+            "name": "🚀彩桐线路"
         },
         {
             "url": "https://cdn09022024.gitlink.org.cn/nianxin/nxpz/raw/branch/main/nx.json",
@@ -110,38 +110,38 @@
  
         {
             "url": "http://meowtv.cn/tv",
-            "名称":"数码影线"
+            "name": "🚀喵影视线路"
         },
         {
             "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
-            "名称":"街景线"
+            "name": "🚀业余线路"
         },
         {
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
-            "名":"金夜星子句"
+            "name": "🚀夜猫子线路"
         },
         
         {
             "url": "http://www.饭太硬.com/tv/",
-            "名称":"捷宝英杰线路"
-        },
+            "name": "🚀饭太硬线路"
+        }, 
        
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
-            "名称":"数码长线"
+            "name": "🚀道长线路"
         },
         
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "✨️潇线路"
-        },
+        }, 
         {
             "url": "https://weixine.net/ysc.json",
-            "姓名":"澳门车运线路"
+            "name": "🚀运输车线路"
         },
         {
             "url": "https://xhdwc.tk/0",
-            "姓名":"数码Dxawi0线路"
+            "name": "🚀dxawi0线路"
         }
   ]
 }
