@@ -1,0 +1,56 @@
+{
+  "urls": [
+    {
+      "url": "https://d.kstore.dev/download/7336/yhykeji.json",
+      "name": "✨️YHY丨YHY专线✨️"
+    },
+    {
+      "url": "https://pz.nxpz.xyz/tvbox/nx.json",
+      "name": "✨️YHY丨念心线路✨️"
+    },
+    {
+      "url": "https://pz.nxbox.top/dj/dj.json",
+      "name": "✨️YHY丨念心的短剧✨️"
+    },
+    {
+      "url": "https://12448.kstore.space/Baipiao/tvbox/白嫖4K.json",
+      "name": "✨️YHY丨白嫖4K"
+    },
+    {
+      "url": "https://4708.kstore.space/omg/hollo.json",
+      "name": "✨️YHY丨拾光单线"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "✨️YHY丨摸鱼线路"
+    },
+    {
+      "url": "https://6492.kstore.space/xnf/xnf.json",
+      "name": "✨️YHY丨环宇轩线"
+    },
+    {
+      "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+      "name": "✨️YHY丨D佬魔改"
+    },
+    {
+      "url": "https://100km.top/0",
+      "name": "✨️YHY丨Ray线路"
+    },
+    {
+      "url": "https://tv.xn--yhqu5zs87a.top",
+      "name": "✨️YHY丨菜妮丝线"
+    },
+    {
+      "url": "http://肥猫.com",
+      "name": "✨️YHY丨肥猫线路"
+    },
+    {
+      "url": "https://cn.kstore.space/download/2863/01.txt",
+      "name": "✨️YHY丨潇洒线路"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php",
+      "name": "✨️YHY丨讴歌线路"
+    }
+  ]
+}
